@@ -108,11 +108,3 @@
    catapult
    camera
 
-
-Содержание:
-==================
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
