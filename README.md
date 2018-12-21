@@ -1,4 +1,4 @@
-# Геоскан 201
+# Документация Геоскан 201
 
 ![Image of 201](https://www.geoscan.aero/sites/default/files/2018-05/main_1.png)
 
