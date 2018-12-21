@@ -6,7 +6,7 @@
 Инструкция по эксплуатации комплекса "Геоскан 201"
 =====================================================
 
-.. image:: _static/images/pioneer.png
+.. image:: _static/_images/pioneer.png
    :align: center
 
 **Общие сведения**
