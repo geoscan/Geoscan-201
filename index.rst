@@ -75,11 +75,11 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Содержание:
 
 
 
-Indices and tables
+Содержание:
 ==================
 
 * :ref:`genindex`
