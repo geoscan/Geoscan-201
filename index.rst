@@ -3,8 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Инструкция по эксплуатации комплекса "Геоскан 201"
+Сборка и эксплуатация комплекса "Геоскан 201"
 =====================================================
+
+`Страница Геоскан 201`_
+--------------------------
+.. _Страница Геоскан 201: https://www.geoscan.aero/ru/products/geoscan201
+
 
 .. image:: _static/_images/201.png
    :align: center
