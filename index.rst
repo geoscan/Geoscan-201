@@ -82,6 +82,7 @@
 
    precautions
    details
+   assembly
 
 
 Содержание:
