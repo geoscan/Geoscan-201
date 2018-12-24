@@ -33,18 +33,18 @@
 .. figure:: _static/_images/left_winglet.png
    :align: center
    :width: 400
-   :alt: Законцовка левого крыла
+   :alt: Левая законцовка крыла
 
-   Законцовка левого крыла
+   Левая законцовка крыла
 
 
 
 .. figure:: _static/_images/right_winglet.png
    :align: center
    :width: 400
-   :alt: Законцовка правого крыла
+   :alt: Правая законцовка крыла
 
-   Законцовка правого крыла
+   Правая законцовка крыла
 
 
 
