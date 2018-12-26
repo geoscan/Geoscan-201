@@ -105,6 +105,7 @@
    :caption: Содержание:
 
    precautions
+   charger
    uav
    nsu
    catapult
