@@ -3,9 +3,9 @@
 
 **Комплект**
 
-.. figure:: _static/_images/asmbl1.png
+.. figure:: _static/_images/nsu1.jpg
    :align: center
-   :width: 450
+   :width: 600
    :alt: Картинки со стр. 10-11
 
    НСУ на базе ноутбука
@@ -16,9 +16,9 @@
 
 **Развертывание**
 
-.. figure:: _static/_images/asmbl1.png
+.. figure:: _static/_images/nsu2.jpg
    :align: center
-   :width: 450
+   :width: 6000
    :alt: нужны картинки
 
 
