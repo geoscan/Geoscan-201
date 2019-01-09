@@ -18,7 +18,7 @@
 
 .. figure:: _static/_images/nsu2.jpg
    :align: center
-   :width: 6000
+   :width: 600
    :alt: нужны картинки
 
 
