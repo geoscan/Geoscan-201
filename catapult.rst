@@ -26,37 +26,37 @@
 .. figure:: _static/_images/catapult1.jpg
    :align: center
    :width: 400
+
    Разложите опорные стойки. Убедитесь, что они надежно закреплены защелками.
 
 .. figure:: _static/_images/catapult2.jpg
    :align: center
    :width: 400
-   :alt: Рис.  (со стр. 26, левый, поправить стрелки) плюс врезка с защелками.
 
    Присоедините среднюю часть-удлинитель к передней части катапульты
 
 .. figure:: _static/_images/catapult3.jpg
    :align: center
    :width: 400
+
    Присоедините среднюю часть катапульты с лебедкой.
 
 .. figure:: _static/_images/catapult4.jpg
    :align: center
    :width: 400
-   :alt: Рис. (со стр. 26, правый)
 
    Разложите опорные стойки задней части катапульты.
 
 .. figure:: _static/_images/catapult6.jpg
    :align: center
    :width: 400
-   :alt: Рис. (со стр. 27, левый)
 
    Присоедините заднюю часть катапульты.
 
 .. figure:: _static/_images/catapult7.jpg
    :align: center
    :width: 400
+
    Вставьте фиксирующий штифт в отверстие в соединении средней и задней частей катапульты.
 
 
