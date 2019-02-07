@@ -3,26 +3,64 @@
 
 Узлы, детали и принадлежности
 --------------------
+.. figure:: _static/_images/c1.png
+   :align: center
+   :width: 200
 
-* Резиновые жгуты
-* Каретка
-* Передняя часть катапульты
-* Средняя часть – удлинитель катапульты
-* Средняя часть катапульты с лебедкой
-* Задняя часть катапульты
-* Комплект резиновых жгутов для катапульты
-* Ручка лебедки
-* Кол
-* Молоток
+   Каретка
+
+.. figure:: _static/_images/c2.png
+   :align: center
+   :width: 200
+
+   Передняя часть катапульты
+
+.. figure:: _static/_images/c3.png
+   :align: center
+   :width: 200
+
+   Средняя часть – удлинитель катапульты
+
+.. figure:: _static/_images/c4.png
+   :align: center
+   :width: 200
+
+   Средняя часть катапульты с лебедкой
+
+.. figure:: _static/_images/c5.png
+   :align: center
+   :width: 200
+
+   Задняя часть катапульты
+
+.. figure:: _static/_images/c6.png
+   :align: center
+   :width: 200
+
+   Комплект резиновых жгутов для катапульты
+
+.. figure:: _static/_images/c7.png
+   :align: center
+   :width: 200
+
+   Ручка лебедки
+
+.. figure:: _static/_images/c8.png
+   :align: center
+   :width: 200
+
+   Кол
+
+.. figure:: _static/_images/c9.png
+   :align: center
+   :width: 200
+
+   Молоток
 
 Сборка
 ----------
 
-.. figure:: _static/_images/catapult0.jpg
-   :align: center
-   :width: 400
-
-   Извлеките детали катапульты из транспортировочного чехла.  
+Извлеките детали катапульты из транспортировочного чехла.
 
 .. figure:: _static/_images/catapult1.png
    :align: center
