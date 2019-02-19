@@ -5,49 +5,49 @@
 --------------------
 .. figure:: _static/_images/c1.png
    :align: center
-   :width: 200
+   :width: 300
 
    Каретка
 
 .. figure:: _static/_images/c2.png
    :align: center
-   :width: 200
+   :width: 300
 
    Передняя часть пусковой установки
 
 .. figure:: _static/_images/c3.png
    :align: center
-   :width: 200
+   :width: 300
 
    Средняя часть – удлинитель пусковой установки
 
 .. figure:: _static/_images/c4.png
    :align: center
-   :width: 200
+   :width: 300
 
    Средняя часть пусковой установки с лебедкой
 
 .. figure:: _static/_images/c5.png
    :align: center
-   :width: 200
+   :width: 300
 
    Задняя часть пусковой установки
 
 .. figure:: _static/_images/c6.png
    :align: center
-   :width: 200
+   :width: 300
 
    Комплект резиновых жгутов 
 
 .. figure:: _static/_images/c7.png
    :align: center
-   :width: 200
+   :width: 100
 
    Ручка лебедки
 
 .. figure:: _static/_images/c8.png
    :align: center
-   :width: 200
+   :width: 100
 
    Кол упорный
 
