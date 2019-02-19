@@ -53,7 +53,7 @@
 
 .. figure:: _static/_images/c9.png
    :align: center
-   :width: 200
+   :width: 100
 
    Молоток
 
