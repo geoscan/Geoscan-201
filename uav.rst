@@ -313,7 +313,7 @@
    Аккуратно сложите купол «гармошкой», как показано на рисунке.
 
 
-   .. figure:: _static/_images/para8.png
+.. figure:: _static/_images/para8.png
    :align: center
    :width: 400
 
