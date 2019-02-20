@@ -3,7 +3,7 @@
 
 **Комплект**
 
-.. figure:: _static/_images/nsu1.jpg
+.. figure:: _static/_images/nsu1.png
    :align: center
    :width: 600
    :alt: Картинки со стр. 10-11
