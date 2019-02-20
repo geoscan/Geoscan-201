@@ -1,6 +1,6 @@
 # Документация Геоскан 201
 
-![Image of 201](http://compareuas.ru/wp-content/uploads/2016/08/201ag.jpg)
+![Image of 201](https://github.com/geoscan/Geoscan-201/blob/master/_static/_images/201%20n.png)
 
 
 Аэрофотосъемочный комплекс, включающий в себя беспилотное воздушное судно (БВС) типа «летающее крыло», пусковую установку – катапульту и наземную станцию управления.
