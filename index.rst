@@ -8,7 +8,7 @@
 
 `На сайт Geoscan`_
 --------------------------
-.. _На сайт Geoscan 201: https://www.geoscan.aero/
+.. _На сайт Geoscan: https://www.geoscan.aero/
 
 
 .. image:: _static/_images/201.png
