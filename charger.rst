@@ -59,7 +59,7 @@
 Плата индикации АКБ
 ------------------------
 
-.. figure:: _static/_images/akb_ind.png
+.. figure:: _static/_images/akbind.png
    :align: center
    :width: 400
 
