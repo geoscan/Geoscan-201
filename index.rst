@@ -108,4 +108,5 @@
    nsu
    catapult
    camera
+   charger
 
