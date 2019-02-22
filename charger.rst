@@ -61,7 +61,7 @@
 
 .. figure:: _static/_images/akb-ind.png
    :align: center
-   :width: 400
+   :width: 600
 
    индикаторы на корпусе АКБ
 
