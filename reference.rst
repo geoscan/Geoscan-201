@@ -1,21 +1,5 @@
-.. 201-doc documentation master file, created by
-   sphinx-quickstart on Fri Dec 21 11:13:03 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Сборка и эксплуатация комплекса "Геоскан 201"
-=====================================================
-
-`На сайт Geoscan`_
----------------------
-.. _На сайт Geoscan: https://www.geoscan.aero/
-
-
-.. image:: _static/_images/201.png
-   :align: center
-
 Общие сведения
------------------------
+=================
 
 «Геоскан 201» – это аэрофотосъемочный комплекс, включающий в себя беспилотное воздушное судно (БВС) типа «летающее крыло», пусковую установку и наземную станцию управления.
 
@@ -95,18 +79,3 @@
 Хранение
 
 Комплекс «Геоскан 201» следует хранить в транспортировочных контейнерах (катапульту – в транспорировочной сумке).
-
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Содержание:
-
-   reference
-   precautions
-   uav
-   nsu
-   catapult
-   camera
-   charger
-
