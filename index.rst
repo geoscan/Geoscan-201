@@ -103,6 +103,7 @@
    :maxdepth: 2
    :caption: Содержание:
 
+   index
    precautions
    uav
    nsu
