@@ -109,4 +109,5 @@
    catapult
    camera
    charger
+   launch
 
