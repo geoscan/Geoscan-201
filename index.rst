@@ -107,5 +107,6 @@
    catapult
    camera
    charger
+   planner
    launch
 
