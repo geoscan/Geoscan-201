@@ -16,8 +16,8 @@
 .. _Зарядите АКБ: charger.html#id4
 .. _Соберите пусковую установку: catapult.html#id3
 .. _Соберите БВС: uav.html#id3
-.. _Geoscan Planner: 
-.. _разверните антенну командной радиолинии: nsu#id2
+.. _Geoscan Planner: planner.html
+.. _разверните антенну командной радиолинии: nsu.html#id2
 
 
 
