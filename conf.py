@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Geoscan 201'
+project = 'Geoscan 2019'
 copyright = 'Geoscan 2019'
 author = ''
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
