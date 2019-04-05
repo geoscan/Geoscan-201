@@ -132,7 +132,7 @@ latex_elements = {
 
     # Latex figure (float) alignment
     #
-    'figure_align': 'htbp',
+    'figure_align': 'H',
     
         'fontpkg': r'''
 
@@ -152,7 +152,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, '201-doc.tex', '201-doc Documentation',
+    (master_doc, '201-doc.tex', 'Инструкция Геоскан 201',
      'Geoscan', 'manual'),
 ]
 
