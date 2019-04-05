@@ -152,7 +152,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, '201-doc.tex', 'Инструкция Геоскан 201',
+    (master_doc, '201-doc.tex', 'Geoscan 201 manual',
      'Geoscan', 'manual'),
 ]
 
