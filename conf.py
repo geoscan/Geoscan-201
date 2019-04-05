@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Geoscan 2019'
-copyright = 'Geoscan 2019'
+copyright = ''
 author = ''
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '1.0'
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
@@ -114,6 +114,7 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = '201-docdoc'
 
+latex_logo = "_static/_images/logo.png"
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -152,7 +153,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, '201-doc.tex', 'Geoscan 201 manual',
+    (master_doc, '201-doc.tex', '',
      'Geoscan', 'manual'),
 ]
 
