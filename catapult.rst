@@ -9,7 +9,7 @@
 
 Полный комплект пусковой установки:
 
-.. figure:: _static/_images/c0.png
+.. image:: _static/_images/c0.png
 
 Сборка
 ----------

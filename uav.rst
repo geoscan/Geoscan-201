@@ -7,7 +7,7 @@
 Полный комплект деталей для сборки БВС:
 
 
-.. figure:: _static/_images/asmbl.png
+.. image:: _static/_images/asmbl.png
 
 
 Сборка 

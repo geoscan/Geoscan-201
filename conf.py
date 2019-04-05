@@ -120,7 +120,7 @@ htmlhelp_basename = '201-docdoc'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    'papersize': 'openany',
+    'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
