@@ -3,6 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Содержание:
+
+   reference
+   precautions
+   uav
+   nsu
+   catapult
+   camera
+   charger
+   planner
+   launch
+
+
+
+
 Сборка и эксплуатация комплекса "Геоскан 201"
 =====================================================
 
@@ -108,18 +125,4 @@
 
 Аккумуляторные батареи хранить в сухом прохладном месте, исключающем воздействие прямых солнечных лучей, при температуре от 5 до 25 °С и относительной влажности не более 80%, без конденсации. Оптимальная температура - от 5 до 10 °С. Оптимальный уровень напряжения АКБ при помещении батареи на хранение: 19 В (Подробнее см. раздел Зарядная станция и АКБ). Срок хранения - 1 год.
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Содержание:
-
-   reference
-   precautions
-   uav
-   nsu
-   catapult
-   camera
-   charger
-   planner
-   launch
 
