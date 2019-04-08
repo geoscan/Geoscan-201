@@ -8,6 +8,8 @@
 
 
 .. image:: _static/_images/asmbl.png
+   :width: 650
+   :align: center
 
 
 Сборка 

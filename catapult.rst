@@ -10,6 +10,8 @@
 Полный комплект пусковой установки:
 
 .. image:: _static/_images/c0.png
+   :align: center
+   :width: 550
 
 Сборка
 ----------
