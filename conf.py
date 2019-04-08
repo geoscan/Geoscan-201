@@ -114,7 +114,7 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = '201-docdoc'
 
-latex_logo = "_static/_images/logo.png"
+latex_logo = "_static/_images/logo_latex.png"
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -154,7 +154,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, '201-doc.tex', '',
-     'Geoscan', 'manual'),
+     '', 'manual'),
 ]
 
 
