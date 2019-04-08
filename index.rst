@@ -15,7 +15,7 @@
 
 .. image:: _static/_images/201.png
    :align: center
-   :width: 550
+   :width: 540
 
 **Общие сведения**
 
