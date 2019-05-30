@@ -122,4 +122,3 @@
    charger
    planner
    launch
-   dissassemble
