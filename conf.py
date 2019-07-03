@@ -130,7 +130,7 @@ latex_elements = {
     # Additional stuff for the LaTeX preamble.
     #
     'preamble': '',
-
+    'extraclassoptions': 'openany',
     # Latex figure (float) alignment
     #
     'figure_align': 'H',
