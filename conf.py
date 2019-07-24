@@ -121,7 +121,7 @@ latex_logo = "_static/_images/logo_latex.png"
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    'papersize': 'openany',
+    'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
